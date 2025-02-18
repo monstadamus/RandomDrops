@@ -1,0 +1,10 @@
+name: RandomDrops
+version: 0.0.1
+main: izarro.randomDrops.RandomDrops
+api-version: 1.21
+author: izarro
+description: This plugin is needed for survival, in which random items will drop out when blocks are destroyed.
+commands:
+  rd:
+    description: Enable or disable random drops for all players
+    usage: /<command> drop <enable|disable>
