@@ -45,7 +45,7 @@ public class DropsManager implements CommandExecutor, TabCompleter {
             }
         }
         return true;
-    }
+    }//
 
     @Override
     public List<String> onTabComplete(CommandSender sender, Command command, String label, String[] args) {
