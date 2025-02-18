@@ -44,7 +44,7 @@ public class DropsManager implements CommandExecutor, TabCompleter {
                 player.sendMessage(ChatColor.RED + "Use: /rd drop <enable|disable>");
             }
         }
-//asdfsdf
+//asdfsdfsdfsdf
         return true;
     }
 
